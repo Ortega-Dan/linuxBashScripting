@@ -1,3 +1,3 @@
 # linuxBashScripting
 
-Several Scripts intended for documentation or training
+Several Linux Bash Scripts of my own intended for documentation or training
